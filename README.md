@@ -1,5 +1,7 @@
 # The Official Source Code of the Orange Discord.Py-Rewrite Bot.
 
+# Add the Original Bot to your Server here: https://bit.ly/addorangebot
+
 The original Orange Bot refills its juice 6AM and 6PM EST every day.
 Replace 'Your Client ID' in Line 48 of the Python File with your Client ID.
 
