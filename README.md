@@ -1,6 +1,6 @@
 # The Official Source Code of the Orange Discord.Py-Rewrite Bot.
 
-# Add the Original Bot to your Server here: https://bit.ly/addorangebot
+# Add the Original Bot to your Server here: https://bit.ly/orangebot
 
 The original Orange Bot refills its juice 6AM and 6PM EST every day.
 Replace 'Your Token' in Line 48 of the Python File with your Bot Token.
