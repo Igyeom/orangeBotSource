@@ -45,4 +45,4 @@ async def on_command_error(ctx, error):
   if isinstance(error, commands.CommandNotFound):
     await ctx.send("No idea what you're saying, but I can make an orange juice for you by typing .orangejuice!")
 
-client.run('NzcxNjYyNzY1MDAwNzUzMTUz.X5vY8w.trmRyEXSbxqz-N3rwSfDadLnSzE')
+client.run('your client id')
